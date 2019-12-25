@@ -1,5 +1,7 @@
 Feature: As a user I should be able to verify all checkbox functinality
 
+
+@SC1
 Scenario: Verify single checkbox functionality 
 
 Given User navigate to Selenium Easy home page
